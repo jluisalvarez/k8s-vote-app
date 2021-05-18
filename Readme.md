@@ -24,7 +24,7 @@ The vote interface is then available on port 31000 on each host of the cluster, 
 ## Architecture
 
 
-![Architecture diagram](architecture.png)
+![Architecture diagram](https://raw.githubusercontent.com/dockersamples/example-voting-app/master/architecture.png)
 
 * A front-end web app in [Python](/vote) or [ASP.NET Core](/vote/dotnet) which lets you vote between two options
 * A [Redis](https://hub.docker.com/_/redis/) or [NATS](https://hub.docker.com/_/nats/) queue which collects new votes
