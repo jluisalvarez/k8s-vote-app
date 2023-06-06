@@ -24,7 +24,7 @@ The vote interface is then available on port 31000 on each host of the cluster, 
 ## Architecture
 
 
-![Architecture diagram](https://raw.githubusercontent.com/dockersamples/example-voting-app/master/architecture.png)
+![Architecture diagram](https://github.com/dockersamples/example-voting-app/raw/main/architecture.excalidraw.png)
 
 
 
